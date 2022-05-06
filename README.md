@@ -1,9 +1,14 @@
 # Rakettirobotti (school course project assignment)
 
-- This is a game project made using Pygame
+- This is a game with Pygame
 - Goal is to survive and destroy enemy ships for as long as possible
 - Game gets progressively more challenging
 - The source code is very messy :)
+
+## How to play
+- Clone the repository
+- Ensure that you have Python >3.8 and Pygame installed on your machine
+- Use `python main.py` to run the game
 
 ## Controls
 - WASD/Arrow keys to move (NOTE: you need to be flying in order to move sideways)
