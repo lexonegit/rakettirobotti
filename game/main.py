@@ -358,7 +358,7 @@ def exit_controls():
 def gameOverScreen():
     # Multiply with some number to make score (aka. killcount) look less boring
     score = str(totalEnemyKills * 18)
-    display.blit(gameOverFont.render("GAME OVER! Pisteet: " +
+    display.blit(gameOverFont.render("GAME OVER! Points: " +
                  score, True, (255, 255, 255)), (425, 350))
 
 
