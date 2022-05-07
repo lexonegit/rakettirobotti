@@ -1,6 +1,6 @@
 # Rakettirobotti (school course project assignment)
 
-- This is a game with Pygame
+- This is a game made with Pygame
 - Goal is to survive and destroy enemy ships for as long as possible
 - Game gets progressively more challenging
 - The source code is very messy :)
